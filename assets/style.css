@@ -1,8 +1,8 @@
 body {
-  background-color: #b5b5c7;
+  background-color: #ffffff;
 }
 h1, h3 {
-  color: #666;
+  color: rgb(0, 0, 0);
 }
 img {
   float: right;
